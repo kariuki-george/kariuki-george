@@ -83,7 +83,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
-<img style="margin: 10px" src="https://www.digitalocean.com/_next/static/media/do-logo.d3eb8550.svg " alt="Kubernetes" height="50" /> 
+<img style="margin: 10px" src="https://www.digitalocean.com/_next/static/media/do-logo.d3eb8550.svg" alt="digital ocean" height="50" /> 
 
 
 </div>
