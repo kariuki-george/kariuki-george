@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [smiley-geek-codes.tech](smiley-geek-codes.tech)
 
-- 💬 Ask me about **fullstack dev/ nginx/ docker/ serverless apps**
+- 💬 Ask me about **fullstack dev, nginx, docker, serverless apps
 
 - 📫 How to reach me **kariukigeorge2030@gmail.com**
 
