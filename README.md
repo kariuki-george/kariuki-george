@@ -117,9 +117,9 @@
 
 <br/>
 
-### spotify
+<!-- ### spotify
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3a1wh1rdu4m9a1nwifioov7d7&cover_image=true&theme=default&bar_color=c7f8ff" /></div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3a1wh1rdu4m9a1nwifioov7d7&cover_image=true&theme=default&bar_color=c7f8ff" /></div> -->
 
 <br/>
 
