@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **nestjs microservices**
 
-- 👨‍💻 All of my projects are available at [smiley-geek-codes.tech](https://smiley-geek-codes.tech)
+- 👨‍💻 All of my projects are available at [kariukigeorge.me](https://kariukigeorge.me/)
 
 - ❓ Ask me about **fullstack dev/ nginx/ docker/ serverless apps**
 
 - 📫 How to reach me **mail@kariukigeorge.me**
 
-- 📄 Know about my experiences [https://kariukigeorge.me/](https://kariukigeorge.me/)
+- 📄 Know about my experiences [kariukigeorge.me](https://kariukigeorge.me/)
 
 - ⚡ Fun fact: I use tabs over spaces
 
