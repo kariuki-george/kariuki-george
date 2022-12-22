@@ -11,9 +11,9 @@
 
 - ❓ Ask me about **fullstack dev/ nginx/ docker/ serverless apps**
 
-- 📫 How to reach me **kariukigeorge2030@gmail.com**
+- 📫 How to reach me **mail@kariukigeorge.me**
 
-- 📄 Know about my experiences [smiley-geek-codes.tech](https://smiley-geek-codes.tech)
+- 📄 Know about my experiences [https://kariukigeorge.me/](https://kariukigeorge.me/)
 
 - ⚡ Fun fact: I use tabs over spaces
 
