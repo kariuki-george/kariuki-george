@@ -95,7 +95,7 @@
 ## Connect with me
 
 <div align="center">
-<a href="https://github.com/smiley-geek" target="_blank">
+<a href="https://github.com/kariuki-george" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/_kariuki_george" target="_blank">
@@ -111,7 +111,7 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=smiley-geek&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kariuki-george&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 
 
@@ -124,7 +124,7 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=smiley-geek&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=kariuki-george&&style=flat-square" align="center" />
 </div>  
 
 
