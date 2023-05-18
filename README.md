@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm George🫣</h1>
 <h3 align="center">A passionate fullstack developer from Kenya🇰🇪</h3>
 
-- 🌱 I’m currently learning **nestjs microservices**
+- 🌱 I’m currently learning **event streaming with ksqldb and kafka**
 
 - 👨‍💻 All of my projects are available at [kariukigeorge.me](https://kariukigeorge.me/)
 
-- ❓ Ask me about **fullstack dev/ nginx/ docker/ serverless apps**
+- ❓ Ask me about **fullstack dev/ kafka/ docker/ microservices**
 
 - 📫 How to reach me **mail@kariukigeorge.me**
 
