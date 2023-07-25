@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm George🫣</h1>
 <h3 align="center">A passionate fullstack developer from Kenya🇰🇪</h3>
 
-- 🌱 I’m currently learning **event streaming with ksqldb and kafka**
+- 🌱 I’m currently learning **event streaming with rust, ksdb and kafka
 
 - 👨‍💻 All of my projects are available at [kariukigeorge.me](https://kariukigeorge.me/)
 
